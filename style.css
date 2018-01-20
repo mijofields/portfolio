@@ -1,0 +1,35 @@
+*{
+
+font-family: 'Saira Semi Condensed', serif;
+
+}
+
+.myColour{
+
+	background-color: #4aaaa5
+
+}
+
+.fontColour{
+
+
+	color: #4aaaa5;
+}
+
+body{
+
+	background-image: url(https://github.com/mijofields/Bootstrap-Portfolio/blob/master/images/intersection.png?raw=true);
+	
+
+}
+
+.white{
+
+	background-color: white;
+}
+
+
+.white{
+
+	font-color: white;
+}
