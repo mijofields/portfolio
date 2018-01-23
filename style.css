@@ -6,8 +6,9 @@ font-family: 'Saira Semi Condensed', serif;
 
 .myColour{
 
-	background-color: #4aaaa5
-
+	background-color: black;
+	font-color: white;
+	font-weight: bolder;
 }
 
 .fontColour{
@@ -23,10 +24,7 @@ body{
 
 }
 
-.white{
 
-	background-color: white;
-}
 
 
 .white{
