@@ -21,9 +21,47 @@ a {
 
 color: inherit;
 
-}
-	
 
+}
+
+.body{
+
+background-color: red;
+
+
+}
+
+.body1 {
+
+background-color: blue;
+
+
+}
+
+.body2 {
+
+background-color: green;
+
+}
+
+.body3 {
+
+background-color: purple;
+
+}
+
+.body4 {
+
+background-color: teal;
+
+}
+
+.body5 {
+
+background-color: yellow;
+
+
+}
 
 .short{
 
@@ -35,4 +73,9 @@ color: inherit;
 .white{
 
 	font-color: white;
+}
+
+img : hover {
+    opacity: 0.5;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
 }
