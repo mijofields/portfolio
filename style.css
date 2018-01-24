@@ -1,6 +1,6 @@
 *{
 
-font-family: 'Saira Semi Condensed', serif;
+font-family: 'Sarala', sans-serif;
 
 }
 
@@ -14,17 +14,22 @@ font-family: 'Saira Semi Condensed', serif;
 .fontColour{
 
 
-	color: #4aaaa5;
+	color: black;
 }
 
-body{
+a {
 
-	background-image: url(https://github.com/mijofields/Bootstrap-Portfolio/blob/master/images/intersection.png?raw=true);
+color: inherit;
+
+}
 	
 
+
+.short{
+
+
+	height: 25%;
 }
-
-
 
 
 .white{
